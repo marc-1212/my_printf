@@ -1,4 +1,4 @@
-recreation of the popular printf with the followed flags:
+Recreation of the popular printf with the followed flags:
 
 
 

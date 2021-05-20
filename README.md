@@ -26,4 +26,4 @@ Recreation of the popular printf with the followed flags:
 %u:         Unsigned Integer.
 
 
-%%:         prints '%'.
+%%:         Prints '%'.
